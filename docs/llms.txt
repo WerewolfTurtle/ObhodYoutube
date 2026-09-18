@@ -1,0 +1,10 @@
+# ObhodYoutube
+
+YouTube тормозит из‑за DPI. ObhodYoutube обходит это на Windows 10/11 одним .bat файлом.
+
+YouTube тормозит из‑за DPI. ObhodYoutube обходит это на Windows 10/11 одним .bat файлом. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
+
+Релиз: https://github.com/WerewolfTurtle/ObhodYoutube/releases/latest
+Код: https://github.com/WerewolfTurtle/ObhodYoutube
+Основа: https://github.com/bol-van/zapret
+Страница: https://werewolfturtle.github.io/ObhodYoutube/
